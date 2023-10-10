@@ -1,0 +1,34 @@
+main{
+    font-family: sans-serif;    
+}
+
+h1 {
+    text-align: center;
+}
+
+#link{
+    font-weight: bold;
+    color: black;
+}
+
+.sobre-nos > p{
+    line-height: 32px;
+    padding: 16px;
+    color: aliceblue;
+    background-color: #5F9FA0;
+}
+
+span{
+    color: #5F9FA0;
+}
+
+.list{
+    text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+    padding: 1px;
+    color: aliceblue;
+    background-color: black;    
+}
